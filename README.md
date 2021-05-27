@@ -84,15 +84,15 @@ The [Large-Scale Structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coi
 
 | Title | ML technique(s) used | arxiv link | Source Code |
 | :--- | :---: | :---: | :---: |
-| *A First Look at creating mock catalogs with machine learning techniques* | SVM, kNN | https://arxiv.org/abs/1303.1055 |
-| *Machine Learning Etudes in Astrophysics: Selection Functions for Mock Cluster Catalogs* | SVM, GMM | https://arxiv.org/abs/1409.1576 |
-| *PkANN I&2. Non-linear matter power spectrum interpolation through artificial neural networks* | NN | https://arxiv.org/abs/1203.1695, https://arxiv.org/abs/1312.2101 |
-| *Machine learning and cosmological simulations I.&II.* | kNN, DT, RF, EXT | https://arxiv.org/abs/1510.06402 https://arxiv.org/abs/1510.07659 |
-| *Estimating Cosmological Parameters from the Dark Matter Distribution* | CNN | https://arxiv.org/abs/1711.02033 |
+| *A First Look at creating mock catalogs with machine learning techniques* | SVM, kNN | https://arxiv.org/abs/1303.1055 | No source found. |
+| *Machine Learning Etudes in Astrophysics: Selection Functions for Mock Cluster Catalogs* | SVM, GMM | https://arxiv.org/abs/1409.1576 | No source found. |
+| *PkANN I&2. Non-linear matter power spectrum interpolation through artificial neural networks* | NN | https://arxiv.org/abs/1203.1695, https://arxiv.org/abs/1312.2101 | No source found. |
+| *Machine learning and cosmological simulations I.&II.* | kNN, DT, RF, EXT | https://arxiv.org/abs/1510.06402 https://arxiv.org/abs/1510.07659 | https://github.com/ProfessorBrunner/ml-sims |
+| *Estimating Cosmological Parameters from the Dark Matter Distribution* | CNN | https://arxiv.org/abs/1711.02033 | No source found. |
 | *Painting galaxies into dark matter haloes using machine learning* | SVR, kNN, MLP, DT, RF, EXT, AdR | https://arxiv.org/abs/1712.03255 |
-| *Modeling the Impact of Baryons on Subhalo Populations with Machine Learning* | RF | https://arxiv.org/abs/1712.04467 |
-| *Fast cosmic web simulations with generative adversarial networks* | GAN | https://arxiv.org/abs/1801.09070 |
-| *Machine learning cosmological structure formation* | RF | https://arxiv.org/abs/1802.04271 | 
+| *Modeling the Impact of Baryons on Subhalo Populations with Machine Learning* | RF | https://arxiv.org/abs/1712.04467 | https://github.com/eonadler/subhalo_randomforest |
+| *Fast cosmic web simulations with generative adversarial networks* | GAN | https://arxiv.org/abs/1801.09070 | No source found. |
+| *Machine learning cosmological structure formation* | RF | https://arxiv.org/abs/1802.04271 | https://github.com/Machine-Learning-in-Structure-formation/NLSFML |
 | *A Machine Learning Approach to Galaxy-LSS Classification I: Imprints on Halo Merger Trees* | SVM | https://arxiv.org/abs/1803.11156 |
 | *Classifying the Large Scale Structure of the Universe with Deep Neural Networks* | V-Net | https://arxiv.org/abs/1804.00816 |
 | *Cosmological Reconstruction From Galaxy Light: Neural Network Based Light-Matter Connection*| NN | https://arxiv.org/abs/1805.02247 |
