@@ -82,8 +82,8 @@ The [Large-Scale Structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coi
 <a name='formation'></a>
 #### Structure Formation
 
-| Title | ML technique(s) used | arxiv link |
-| :--- | :---: | :---: |
+| Title | ML technique(s) used | arxiv link | Source Code |
+| :--- | :---: | :---: | :---: |
 | *A First Look at creating mock catalogs with machine learning techniques* | SVM, kNN | https://arxiv.org/abs/1303.1055 |
 | *Machine Learning Etudes in Astrophysics: Selection Functions for Mock Cluster Catalogs* | SVM, GMM | https://arxiv.org/abs/1409.1576 |
 | *PkANN I&2. Non-linear matter power spectrum interpolation through artificial neural networks* | NN | https://arxiv.org/abs/1203.1695, https://arxiv.org/abs/1312.2101 |
@@ -172,8 +172,8 @@ The [Large-Scale Structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coi
 ## Reionization and 21cm
 In cosmology, the process of [Reionization](https://en.wikipedia.org/wiki/Reionization) refers to the period when our universe went from the "Dark Ages" before major star and galaxy formation, to the ionized state we see today. 
 
-| Title | ML technique(s) used | arxiv link |
-| :--- | :---: | :---: |
+| Title | ML technique(s) used | arxiv link | Source Code |
+| :--- | :---: | :---: | :---: |
 | *A machine-learning approach to measuring the escape of ionizing radiation from galaxies in the reionization epoch* | LR | https://arxiv.org/abs/1603.09610 | 
 | *Analysing the 21 cm signal from the epoch of reionization with artificial neural networks* | NN | https://arxiv.org/abs/1701.07026 |
 | *Emulation of reionization simulations for Bayesian inference of astrophysics parameters using neural networks* | NN | https://arxiv.org/abs/1708.00011 | 
@@ -211,8 +211,8 @@ Weak gravitational lensing refers to the global effect that almost all far away 
 
 <a name='weak'></a>
 #### Weak Lensing
-| Title | ML technique(s) used | arxiv link |
-| :--- | :---: | :---: |
+| Title | ML technique(s) used | arxiv link | Source Code |
+| :--- | :---: | :---: | :---: |
 | *Bias-Free Shear Estimation using Artificial Neural Networks* | NN | https://arxiv.org/abs/1002.0838 |
 | *Hopfield Neural Network deconvolution for weak lensing measurement* | HNN | https://arxiv.org/abs/1411.3193 |
 | *CosmoGAN: creating high-fidelity weak lensing convergence maps using Generative Adversarial Networks* | GAN | https://arxiv.org/abs/1706.02390 |
@@ -239,8 +239,8 @@ Weak gravitational lensing refers to the global effect that almost all far away 
 
 <a name='strong'></a>
 #### Strong Lensing
-| Title | ML technique(s) used | arxiv link |
-| :--- | :---: | :---: |
+| Title | ML technique(s) used | arxiv link | Source Code |
+| :--- | :---: | :---: | :---: |
 | *A neural network gravitational arc finder based on the Mediatrix filamentation method* | NN | https://arxiv.org/abs/1607.04644 |
 | *CMU DeepLens: deep learning for automatic image-based galaxy-galaxy strong lens finding* | CNN | https://arxiv.org/abs/1703.02642 |
 | *Finding strong lenses in CFHTLS using convolutional neural networks* | CNN | https://arxiv.org/abs/1704.02744 |
@@ -273,8 +273,8 @@ Weak gravitational lensing refers to the global effect that almost all far away 
 ## Cosmic Microwave Background
 The [Cosmic Microwave Background (CMB)](https://en.wikipedia.org/wiki/Cosmic_microwave_background) is the light left over from the period of recombination in the very early Universe, 380,000 years after the beginning. CMB observations are sometimes referred to as "baby pictures of our Universe", as this light has been travelling for 13.5 billion years just to reach us.
 
-| Title | ML technique(s) used | arxiv link |
-| :--- | :---: | :---: |
+| Title | ML technique(s) used | arxiv link | Source Code |
+| :--- | :---: | :---: | :---: |
 | *DeepCMB: Lensing Reconstruction of the Cosmic Microwave Background with Deep Neural Networks* | CNN | https://arxiv.org/abs/1810.01483 |
 | *Fast Wiener filtering of CMB maps with Neural Networks* | U-Net | https://arxiv.org/abs/1905.05846 |
 | *CMB-GAN: Fast Simulations of Cosmic Microwave background anisotropy maps using Deep Learning* | GAN | https://arxiv.org/abs/1908.04682 |
@@ -301,8 +301,8 @@ This section has a variety of machine learning papers used for various observati
 #### Redshifts
 This section is definitely not exhaustive - there is a massive amount of work in this subject area.  
 
-| Title | ML technique(s) used | arxiv link |
-| :--- | :---: | :---: |
+| Title | ML technique(s) used | arxiv link | Source Code |
+| :--- | :---: | :---: | :---: |
 | *ANNz: estimating photometric redshifts using artificial neural networks* | NN | https://arxiv.org/abs/astro-ph/0311058 | 
 | *Estimating Photometric Redshifts Using Support Vector Machines* | SVM | https://arxiv.org/abs/astro-ph/0412005 |
 | *Robust Machine Learning Applied to Astronomical Data Sets. II. Quantifying Photometric Redshifts for Quasars Using Instance-based Learning* | kNN | https://arxiv.org/abs/astro-ph/0612471 |
@@ -352,8 +352,8 @@ This section is definitely not exhaustive - there is a massive amount of work in
 
 <a name='otherobservational'></a>
 #### Other Observational
-| Title | ML technique(s) used | arxiv link |
-| :--- | :---: | :---: |
+| Title | ML technique(s) used | arxiv link | Source Code |
+| :--- | :---: | :---: | :---: |
 | *Use of neural networks for the identification of new z>=3.6 QSOs from FIRST-SDSS DR5* | NN | https://arxiv.org/abs/0809.0547 | 
 | *Estimating the Mass of the Local Group using Machine Learning Applied to Numerical Simulations* | NN | https://arxiv.org/abs/1606.02694 |
 | *A probabilistic approach to emission-line galaxy classification* | GMM | https://arxiv.org/abs/1703.07607 |
@@ -397,8 +397,8 @@ This section is definitely not exhaustive - there is a massive amount of work in
 ## Parameter Estimation
 Cosmological parameter estimation is the mechanism of inferring the contents and evolution of our universe from observations. This topic is quite broad, and therefore parameter estimation papers with a focus on an individual experiment/dataset can be found in other sections (e.g. the Reionization and 21cm section). Note this section is unfinished 
 
-| Title | ML technique(s) used | arxiv link |
-| :--- | :---: | :---: |
+| Title | ML technique(s) used | arxiv link | Source Code |
+| :--- | :---: | :---: | :---: |
 | *Bayesian emulator optimisation for cosmology: application to the Lyman-alpha forest* | GP | https://arxiv.org/abs/1812.04631 |
 | *Fast likelihood-free cosmology with neural density estimators and active learning* | MDN, NF (MAF) | https://arxiv.org/abs/1903.00007 |
 | *Accelerated Bayesian inference using deep learning* | NN | https://arxiv.org/abs/1903.10860 |
@@ -420,8 +420,8 @@ Cosmological parameter estimation is the mechanism of inferring the contents and
 ## Tools
 Contained here are some machine learning tools that are specifically designed for the computational challenges of cosmology. 
 
-| Title | ML technique(s) used | arxiv link |
-| :--- | :---: | :---: |
+| Title | ML technique(s) used | arxiv link | Source Code |
+| :--- | :---: | :---: | :---: |
 | *CosmoFlow: Using Deep Learning to Learn the Universe at Scale* | CNN | https://arxiv.org/abs/1808.04728 |
 | *DeepSphere: Efficient spherical Convolutional Neural Network with HEALPix sampling for cosmological applications* | CNN | https://arxiv.org/abs/1810.12186 |
 | *Convolutional Neural Networks on the HEALPix sphere: a pixel-based algorithm and its application to CMB data analysis* | CNN | https://arxiv.org/abs/1902.04083 | 
